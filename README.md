@@ -4,3 +4,6 @@
 
 - Women
 - Not kissing the homies goodnight
+- People who are good at pong
+- VPN ads
+- Youtube double ads
