@@ -7,3 +7,4 @@
 - People who are good at pong
 - VPN ads
 - Youtube double ads
+- Twitter and Reddit
