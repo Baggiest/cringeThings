@@ -8,3 +8,4 @@
 - VPN ads
 - Youtube double ads
 - Twitter and Reddit
+- xQcOWUpdates
